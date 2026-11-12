@@ -5,11 +5,11 @@ This repository was created primarily to preserve a completed project. It would 
 
 If the T1 chip on your laptop isn't working, you can still boot the system using OpenCore; however, the chip will remain visible to the OS—often appearing in Recovery or DFU mode—which can interfere when working with an iPhone. This patch was created to hide the T1 chip from the system. It adds a map of disabled USB ports to OpenCore, effectively making the T1 chip invisible to the OS.
 
-For technical details, please refer to the README file.
+For technical details, please refer to the README file in Zip archive.
 
 RU:
 Этот репозиторий создан, скорее, с целью сохранить свой готовый проект. Если он кому-то пригодиться, будет здорово. Создан с помощью Кодекс и моего терпения).
 
 Если на вашем ноутбуке не работает чип Т1, вы можете загрузить систему через OpenCore, но чип продолжит висеть в системе в Recovery или DFU, мешая прошивке и джейлу ваших устройств. Чтобы скрыть этот чип из системы и был создан этот патч. Он добавляет карту отключенных USB-линий в OpenCore и система перестает видеть чип Т1.
 
-Технические подробности читайте в файле README
+Технические подробности читайте в файле README в архиве.
